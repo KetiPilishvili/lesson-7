@@ -1,0 +1,160 @@
+.logo{
+	width: 150px;
+	height: 100px;
+}
+.header{
+	display: flex;
+	align-items: center;
+}
+ul{
+	display: flex;
+	width: 500px;
+	justify-content: space-around;
+}
+
+.bg-img{
+	background-image: url(https://i.pinimg.com/originals/d9/2d/46/d92d462e0eb258634400c99ca506074b.jpg);
+    height: 500px;
+    display: flex;
+    align-items: center;
+	justify-content: center;
+  /*  position: relative;	*/
+}
+.title{
+	color: #fff;
+	font-size: 45px;
+	/*position: absolute;
+	left: 400px;
+	top: 50px;*/
+}
+
+.blue{
+	background: blue;
+	width: 200px;
+	height: 200px;
+	/*display: inline-block;*/
+}
+.green{
+
+	background: green;
+	width: 200px;
+	height: 200px;
+	/*display: inline-block;*/
+
+}
+.red{
+	background: red;
+	width: 200px;
+	height: 200px;
+	/*display: inline-block;*/
+}
+.d-flex{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	height: 700px;
+	background: yellow;
+	align-items: center;
+	flex-direction: column-reverse;
+}
+
+.main-box{
+	display: flex;
+	justify-content: space-between;
+}
+.pink{
+	background: hotpink;
+	height: 300px;
+	width: 500px;
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items: center;
+}
+.image1{
+	width: 250px;
+	height: 150px;
+}
+.image2{
+	width: 250px;
+	height: 150px;
+	
+}
+.aqua{
+	background: aqua;
+	height: 300px;
+	width: 500px;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+.container{
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+}
+.articles{
+	display: flex;
+	justify-content: space-around;
+}
+.information{
+	display: flex;
+	width: 1169px;
+	height: 956px;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.box1{
+	width: 370px;
+	height: 451px;
+	background: hotpink;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.box2{
+	width: 370px;
+	height: 451px;
+	background: red;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.box3{
+	width: 370px;
+	height: 451px;
+	background: aqua;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.box4{
+	width: 370px;
+	height: 451px;
+	background: blue;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.box5{
+	width: 370px;
+	height: 451px;
+	background: yellow;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.box6{
+	width: 370px;
+	height: 451px;
+	background: seagreen;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
